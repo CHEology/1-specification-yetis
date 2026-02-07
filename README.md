@@ -25,7 +25,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 Your personal journal for NYC’s best Asian eats - dish by dish, and not just place by place.
 
 ## User Requirements
-# Student
+### Student
 1. As a Student, I want to search for a specific dish so that I can find something I already know I like.
 2. As a Student, I want to filter restaurants by regional cuisine so that I can avoid generic options.
 3. As a Student, I want to rate individual menu items so that I remember what to order next time.
@@ -37,7 +37,7 @@ Your personal journal for NYC’s best Asian eats - dish by dish, and not just p
 9. As a Student, I want to edit my past reviews so that I can update my ratings over time.
 10. As a Student, I want to save favorite dishes so that I can quickly choose what to eat again.
 
-# Traveler
+### Traveler
 1. As a Traveler, I want to search for a specific dish so that I can try the best local version.
 2. As a Traveler, I want to filter results by regional cuisine so that I can find authentic food.
 3. As a Traveler, I want to view top-rated dishes on a map near me so that I can decide while walking.
@@ -49,7 +49,7 @@ Your personal journal for NYC’s best Asian eats - dish by dish, and not just p
 9. As a Traveler, I want to edit my review if I revisit a restaurant during my trip.
 10. As a Traveler, I want to view my eating history so that I can look back on my travel experiences.
 
-# Curator
+### Curator
 1. As a Curator, I want to search for specific dishes (e.g., "Pad See Ew") rather than just restaurant names so that I can find the best version of my favorite specific dishes.
 2. As a Curator, I want to filter restaurants by specific regional cuisines (e.g., "Szechuan" instead of "Chinese") so that I can find authentic food rather than generic options where I might not like all the options part of the generic cuisine.
 3. As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
@@ -63,7 +63,20 @@ Your personal journal for NYC’s best Asian eats - dish by dish, and not just p
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+### Curator User Story 3
+As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
+
+![Curator User Story 3 Diagram](./assets/Curator%20story%203.png)
+
+### Curator User Story 5
+As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
+
+![Curator User Story 5 Diagram](./assets/Curator%20story%205.png)
+
+### Curator User Story 6
+As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
+
+![Curator User Story 6 Diagram](./assets/Curator%20story%206.png)
 
 ## Clickable Prototype
 
