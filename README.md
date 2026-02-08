@@ -25,41 +25,47 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 Your personal journal for NYC’s best Asian eats - dish by dish, and not just place by place.
 
 ## User Requirements
-### Student
-1. As a Student, I want to search for a specific dish so that I can find something I already know I like.
-2. As a Student, I want to filter restaurants by regional cuisine so that I can avoid generic options.
-3. As a Student, I want to rate individual menu items so that I remember what to order next time.
-4. As a Student, I want to assign a spice level rating to dishes so that I can track my tolerance.
-5. As a Student, I want to upload photos of my meals so that I can visually remember my experience.
-6. As a Student, I want to add text notes to my reviews so that I can reference them later.
-7. As a Student, I want to view nearby highly rated dishes on a map so that I can decide quickly where to eat.
-8. As a Student, I want to see a chronological history of my meals so that I can reflect on my dining habits.
-9. As a Student, I want to edit my past reviews so that I can update my ratings over time.
-10. As a Student, I want to save favorite dishes so that I can quickly choose what to eat again.
+### User Type 1: Student
+1. As a Student, I want to search for specific dishes (e.g., "Pad See Ew") rather than just restaurant names so that I can find the best version of the foods I already know I love.
 
-### Traveler
-1. As a Traveler, I want to search for a specific dish so that I can try the best local version.
-2. As a Traveler, I want to filter results by regional cuisine so that I can find authentic food.
-3. As a Traveler, I want to view top-rated dishes on a map near me so that I can decide while walking.
-4. As a Traveler, I want to see photos of dishes so that I know what to expect before ordering.
-5. As a Traveler, I want to upload photos of my meals so that I can document my trip.
-6. As a Traveler, I want to add short notes to my reviews so that I remember my experience.
-7. As a Traveler, I want to share a direct link to my reviews so that I can recommend food to others.
-8. As a Traveler, I want to quickly see whether a dish is spicy so that I avoid discomfort.
-9. As a Traveler, I want to edit my review if I revisit a restaurant during my trip.
-10. As a Traveler, I want to view my eating history so that I can look back on my travel experiences.
+2. As a Student, I want to filter restaurants by specific regional cuisines (e.g., "Szechuan" vs. "Chinese") so that I can find distinct flavors and avoid generic options.
 
-### Curator
-1. As a Curator, I want to search for specific dishes (e.g., "Pad See Ew") rather than just restaurant names so that I can find the best version of my favorite specific dishes.
-2. As a Curator, I want to filter restaurants by specific regional cuisines (e.g., "Szechuan" instead of "Chinese") so that I can find authentic food rather than generic options where I might not like all the options part of the generic cuisine.
-3. As a Curator, I want to rate individual menu items separately from the restaurant so that I remember specifically what was good and what to avoid next time.
-4. As a Curator, I want to upload photos of my meal directly to my review so that I have a visual memory of the experience.
-5. As a Curator, I want to add additional text notes to my logs so that I can look over them when deciding where to go eat next.
-6. As a Curator, I want to share a direct link to my reviews with friends via text so that I don't have to copy-paste a list every time someone wants to see my reviews.
-7. As a Curator, I want to view a map of highly-rated spots of a specific dish and/or specific cuisine near my current location so that I can quickly decide where to eat when I am walking around the city.
-8. As a Curator, I want to see a chronological history of everywhere I have eaten so that I can retrace my eating history in the past.
-9. As a Curator, I want to assign a specific "Spice Level" rating to a dish so that I can track which spots serve dishes with spiciness closer to levels I prefer.
-10. As a Curator, I want to edit my past reviews so that I can update my rating if a dish's quality at a restaurant changes over time.
+3. As a Student, I want to rate individual menu items separately from the restaurant so that I remember specifically what to order (and what to avoid) next time I visit.
+
+4. As a Student, I want to assign a precise "Spice Level" rating to dishes so that I can track my tolerance and identify spots that match my preference.
+
+5. As a Student, I want to share a direct link to my dish reviews via text so that I can quickly recommend good, affordable spots to friends without copy-pasting lists.
+
+6. As a Student, I want to upload photos of my meals attached to specific reviews so that I have a visual log of my dining history.
+
+7. As a Student, I want to view a map of highly-rated specific dishes near my campus or dorm so that I can quickly decide where to eat between classes.
+
+8. As a Student, I want to add detailed notes to my logs so that I can reference portion sizes or prices when deciding where to go next.
+
+9. As a Student, I want to edit my past reviews so that I can update my ratings if a restaurant’s quality or prices change over the semester.
+
+10. As a Student, I want to save "Favorite Dishes" so that I can build a rotating list of go-to meals.
+
+### User Type 2: Traveler
+1. As a Traveler, I want to search for specific local dishes so that I can ensure I am trying the "must-have" food of that region, rather than just a popular restaurant.
+
+2. As a Traveler, I want to filter results by authentic regional sub-cuisines so that I can experience the true local culture and avoid tourist traps.
+
+3. As a Traveler, I want to view a map of specific, top-rated dishes near my current location so that I can make a high-quality food decision instantly while walking around a new city.
+
+4. As a Traveler, I want to see photos of specific dishes (not just the venue) so that I can visually verify if the portion and style match what I am looking for before ordering.
+
+5. As a Traveler, I want to upload photos of my meals so that I can create a visually rich timeline of my trip's culinary experiences.
+
+6. As a Traveler, I want to share a direct link to my curated list of reviews so that I can act as a guide for friends visiting the same city later.
+
+7. As a Traveler, I want to check the "Spice Level" rating of local dishes so that I can be adventurous without ruining my day with food that is too hot.
+
+8. As a Traveler, I want to see a chronological history of everywhere I have eaten so that I can retrace my steps and remember the names of the places I visited.
+
+9. As a Traveler, I want to add short, descriptive notes to my reviews so that I can capture the "vibe" or specific memory associated with that meal.
+
+10. As a Traveler, I want to edit my review if I revisit a spot during my trip and have a different experience (better or worse).
 
 ## Activity Diagrams
 
