@@ -18,7 +18,19 @@ Ryan Lu (<https://github.com/CHEology>)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Stakeholder 1: Student
+**Name:** Vincent Campanaro <br>
+**Demographic:** 3rd year NYU student
+
+**Goals and Needs:**
+1. **Dish-Level Memory:** Needs a way to rate and remember specific menu items separately from the restaurant (ex: Vincent mentioned he has often had experiences where some dishes at a restaurant are good while others are not).
+2. **Spice Tolerance Searching:** Vincent mentioned that he does not have a particularly high spice tolerance, so he wants to be made aware of restaurants that can cater to those with low spice tolerances (especially since Asian cuisine is known for having many spices).
+3. **Restaurant Proximity:** Vincent wants to be able to filter restaurants based on proximity to campus and where he lives in the Financial District to minimize commute time as he is very busy.
+
+**Problems and Frustrations:**
+1. **Generic Ratings:** Frustrated by apps like Yelp or Google Maps that rate the entire restaurant rather than the specific foods themselves (ex: Vincent mentioned there are specific dishes he does not like at all but it might just be what a particular restaurant is known for).
+2. **Forgetting the names of small, great restaurants:** Frequently forgets the names of small, "hole-in-the-wall" spots he visite or forgets specifically what he ordered from these spots that he liked so much (ex: Vincent mentioned that he recently tried a burrito spot in the West Village that was cheap and great but couldn't remember the name of it and therefore can't go there again).
+
 
 ## Product Vision Statement
 
